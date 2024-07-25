@@ -1,0 +1,4 @@
+git-name        = "my-github-username"
+git-token       = "my-github-token"
+repository_name = "my-repository-name"
+key-name        = "my-key"
